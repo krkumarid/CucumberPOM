@@ -1,0 +1,7 @@
+com\testrunner\MyTestRunner.class
+parallel\ParallelTestRunner.class
+parallel\LoginPageSteps.class
+parallel\ContactUsPageSteps.class
+com\testrunner\MySerenityTestRunner.class
+parallel\AccountPageSteps.class
+parallel\ApplicationHooks.class
